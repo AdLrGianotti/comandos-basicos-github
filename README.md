@@ -17,9 +17,9 @@
 - git commit --amend -m "mensagem" ( alterar o último commit, sem a necessidade de apagá-lo )
 - .gitignore ( não seria um comando, é um arquivo onde eu crio juntos os demais (index, img, js) para não subir para github ) 
 
-* existe uma ferramenta online que nos ajuda com gitignore - gitignore.io
+* existe uma ferramenta online que nos ajuda com gitignore - ( https://www.toptal.com/developers/gitignore )
 
 
 
-ssh-keygen -t rsa -b 4096 -C "seu_email@exemplo.com"
+ ssh-keygen -t rsa -b 4096 -C "seu_email@exemplo.com"
 
