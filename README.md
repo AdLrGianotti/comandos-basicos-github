@@ -1,4 +1,6 @@
-## Comandos básicos do GitHub
+# Comandos básicos do GitHub
+
+## Repositório criado para estudo 
 
 - git init (cria um novo repositório do Git) local
 - git add. (adicionar conteúdo)
